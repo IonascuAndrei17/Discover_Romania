@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Seven Ladders Canyon",
+        "category": "Transilvania",
+        "city": "Brasov",
+        "state": "Romania",
+        "id": 1000,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude":25.6436,
+            "latitude": 45.5675
+        },
+        "description": "The Seven Ladders Canyon is a mountainous canyon carved by the Șapte Scări Brook in Romania in the county of Brașov, south of Dâmbul Morii village. It is considered to be one of the main tourist attractions from the Piatra Mare massif.",
+        "imageName": "canionul-7-scari1"
+    },
+    {
+        "name": "Biserica Neagra Brasov",
+        "category": "Transilvania",
+        "city": "Brasov",
+        "state": "Romania",
+        "id": 1001,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude": 25.588124,
+            "latitude":  45.641011
+        },
+"description": "The Black Church stands in the city of Brașov in south-eastern Transylvania, Romania. It was built by the Saxon (German) community of the city and represents the main Gothic-style monument in the country, as well as being the largest and one of the most important houses of worship in the region which belong to the Lutheran, Evangelical Church of Augustan Confession in Romania.",
+        "imageName": "biserica-neagra1"
+    },
+    {
+        "name": "Varful Postavarul",
+        "category": "Transilvania",
+        "city": "Brasov",
+        "state": "Romania",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude": 25.567669,
+            "latitude":  45.568843
+        },
+        "description": "The Postavarul massif is a massif in Romania. It is part of the Romanian Carpathians, which in turn are part of the Carpathian Mountains range. The altitude of the highest peak, also named Postăvarul is 1799 metres.",
+        "imageName": "varful-postavarul1"
+    },
+    {
+        "name": "Bolboci Lake",
+        "category": "Transilvania",
+        "city": "Sinaia",
+        "state": "Romania",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude": 25.426980,
+            "latitude":  45.348498
+        },
+        "description": "Bolboci Lake is an artificial dam lake in the Bucegi Massif, on the Ialomița River, behind the Bolboci Dam, with a useful volume of 17.9 million m³, compared to the initial volume of 19.4 million m³ . The rivers Blana, Nucet, Bolboci and Plaiul Mircii also flow into Bolboci Lake.",
+        "imageName": "lacul-bolboci1"
+    },
+    {
+        "name": "Tampa Peak",
+        "category": "Transilvania",
+        "city": "Brasov",
+        "state": "Romania",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude": 25.594996,
+            "latitude":  45.632550
+        },
+        "description": "Tampa is a mountain, part of the Postăvarul Massif, located in the southern part of the Eastern Carpathians (alternatively categorized as in the Curvature Carpathians) and almost entirely surrounded by the city of Braşov. Its elevation is 960 m, almost 400 m above the city.",
+        "imageName": "varful-tampa1"
+    },
+    {
+        "name": "Astra Park Sibiu",
+        "category": "Transilvania",
+        "city": "Sibiu",
+        "state": "Romania",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude": 24.116031,
+            "latitude":  45.754986
+        },
+        "description": "Located in the center of Romania, in Sibiu, the ASTRA National Museum Complex is the most important ethnographic institution in Romania. Conceived under the auspices of the Transylvanian Association for Romanian Literature and the Culture of the Romanian People – an institution founded in 1861 – the ASTRA Museum – then the Museum of the Association – opened its first exhibition on August 19, 1905. The museum was born from the desire of the Romanians from Transylvania to define their own ethnocultural identity in the ethnic conglomerate of the Austro-Hungarian Empire and in the context of the cultural emancipation of all the peoples of Central and South-Eastern Europe.",
+        "imageName": "astra-park-sibiu1"
+    },
+    {
+        "name": "Emerald Lake",
+        "category": "Transilvania",
+        "city": "Brasov",
+        "state": "Romania",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Transilvania",
+        "coordinates": {
+            "longitude": 25.424401,
+            "latitude":  46.030421
+        },
+        "description": "A unique nature-based attraction in Transylvania, the Racos volcano and the epic canyon which surrounds it is offering extraordinary sights all around. The volcano is located near the small ancient village of Racos in the middle of an East Carpathian geological complex. Around 10,000 years ago, a massive eruption created this volcanic crater. Now inactive, it serves as a reminder of forces down below capable of changing a landscape forever. The greenery in the canyon contrasts with the rusty red soil, giving the feeling of a terraformed Mars rather than a natural occurrence. Nearby stands a series of million-year-old basalt columns - a naturally occurring phenomenon creating straight rods. The areas basalt was mined for a period, but since being abandoned, the former quarry has filled with vibrant turquoise water, adding another facet to this scenic landscape.",
+        "imageName": "lacul-de-smarald1"
+    },
+    {
+        "name": "Chair Cittadel",
+        "category": "Bucovina",
+        "city": "Sibiu",
+        "state": "Romania",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Bucovina",
+        "coordinates": {
+            "longitude": 26.270456,
+            "latitude":  47.644872
+        },
+        "description": "The Chair Citadel of Suceava, also known as the Citadel of Suceava, is a medieval fortress located on the eastern edge of the city of Suceava (in northeastern Romania). It is located on a terminal spur of a plateau at a height of 70 m above the Suceava meadow. From here, you can see the entire Suceava valley. It is preferred to use the term of the Citadel of Suceava and not of the Citadel of Suceava, because in Suceava there were two fortresses: the Citadel of the Chair and the Citadel of the West (Cetatea Șcheia), both being built by the voivode Petru I Mușat (c. 1375 - c. 1391).",
+        "imageName": "cetatea-de-scaun1"
+    },
+    {
+        "name": "Transraraul",
+        "category": "Bucovina",
+        "city": "Vatra Dornei",
+        "state": "Romania",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Bucovina",
+        "coordinates": {
+            "longitude": 25.583603,
+            "latitude":  47.413791
+        },
+        "description": "Transrarau Road is declared to be the third most beautiful alpine road in Romania, after Transalpina and Transfagarasan… and rightly deserves its place in the ranking.It crosses the Rarau massif and is one of the roads located at high altitude, which offers breathtaking landscapes.",
+        "imageName": "trans-rarau1"
+    },
+    {
+        "name": "Dobrogea Gorges",
+        "category": "Dobrogea",
+        "city": "Constanta",
+        "state": "Romania",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "region": "Dobrogea",
+        "coordinates": {
+            "longitude":  28.427553,
+            "latitude":  44.502551
+        },
+        "description": "It was declared a Special Avifauna Protection Area in 2007 and covers an area of ​​10,929 hectares. This area includes the Gura Dobrogei Nature Reserve, La Adam Cave and Gura Dobrogei Cave. The protected area includes meadows, steppes, crops, pastures, deciduous forests and is part of the steppe geographical bioregion of the Casimcei Plateau. There are protected bird species such as the blue gull, the field gull, the short-legged hawk, the quail, the Danube falcon, the rooster, the black jay, the green woodpecker or the shore swallow. The gorges of Dobrogea are different from the gorges of the Carpathian Mountains. The valley is wide and the limestone walls are far from the water. They reach 30-40 meters, and the limestones are reefs. The skeletons of coral colonies deposited in circular shapes can be seen along the length of the keys. The landscapes are spectacular with natural ditches, towers, limestone walls and caves, and the best known are La Adam Cave and Bat Cave (Gura Dobrogei). The Casimcei plateau is the place with the oldest rocks in Romania - the green shales, which are impressive.",
+        "imageName": "cheile-dobrogei1"
+    }
+]
